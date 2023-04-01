@@ -1,3 +1,1 @@
-<svg width="{item.TextWidth + 20}" height="20" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="10" font-family="Arial" font-size="12" fill="{Color}">{State}</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="{item.TextWidth + 20}" height="20"><text x="0" y="10" fill="{Color}" font-family="Arial" font-size="12">{State}</text></svg>
